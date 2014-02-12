@@ -4,7 +4,7 @@
 	<groupId>com.xinx</groupId>
 	<artifactId>resutful</artifactId>
 	<packaging>war</packaging>
-	<!--   settting hello world  -->
+	<!--   settting   -->
 	<version>0.0.1-SNAPSHOT</version>
 	<name>resutful Maven Webapp</name>
 	<url>http://maven.apache.org</url>
